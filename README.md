@@ -1,4 +1,4 @@
-# A View on Proto-Karen Phonology and Lexicon
+# CLDF dataset derived from Luangthongkum's "Proto-Karen Phonology and Lexicon" from 2019
 
 Cite the source dataset as
 
@@ -30,10 +30,11 @@ Available online at http://hdl.handle.net/10524/52441
 
 # Contributors
 
-Name | GitHub user | Role
- --- | --- | --- 
-Johann-Mattis List | @lingulist | maintainer
-Tiago Tresoldi | @tresoldi | maintainer
+Name | GitHub user | Description | Role
+ --- | --- | --- | --- 
+Tiago Tresoldi | @tresoldi | patron, profiles, language mapping | Author
+Johann-Mattis List | @lingulist | code, integration | Author
+
 
 
 
