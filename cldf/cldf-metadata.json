@@ -8,14 +8,14 @@
     "dc:license": "https://creativecommons.org/licenses/by-nc-nd/4.0/",
     "dc:related": null,
     "dc:source": "sources.bib",
-    "dc:title": "A View on Proto-Karen Phonology and Lexicon",
+    "dc:title": "CLDF dataset derived from Luangthongkum's \"Proto-Karen Phonology and Lexicon\" from 2019",
     "dcat:accessURL": "https://github.com/lexibank/luangthongkumkaren",
     "prov:wasDerivedFrom": [
         {
             "rdf:type": "prov:Entity",
             "dc:title": "Repository",
             "rdf:about": "https://github.com/lexibank/luangthongkumkaren",
-            "dc:created": "72372c7"
+            "dc:created": "6e1dc8b"
         },
         {
             "rdf:type": "prov:Entity",

@@ -1,7 +1,8 @@
 # Contributors
 
-Name | GitHub user | Role
- --- | --- | --- 
-Johann-Mattis List | @lingulist | maintainer
-Tiago Tresoldi | @tresoldi | maintainer
+Name | GitHub user | Description | Role
+ --- | --- | --- | --- 
+Tiago Tresoldi | @tresoldi | patron, profiles, language mapping | Author
+Johann-Mattis List | @lingulist | code, integration | Author
+
 
