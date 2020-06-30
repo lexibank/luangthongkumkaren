@@ -15,19 +15,19 @@
             "rdf:type": "prov:Entity",
             "dc:title": "Repository",
             "rdf:about": "https://github.com/lexibank/luangthongkumkaren",
-            "dc:created": "6e1dc8b"
+            "dc:created": "960c194"
         },
         {
             "rdf:type": "prov:Entity",
             "dc:title": "Glottolog",
             "rdf:about": "https://github.com/glottolog/glottolog",
-            "dc:created": "v4.1"
+            "dc:created": "v4.2.1-1-g1e0e889"
         },
         {
             "rdf:type": "prov:Entity",
             "dc:title": "Concepticon",
             "rdf:about": "https://github.com/concepticon/concepticon-data",
-            "dc:created": "v2.3.0"
+            "dc:created": "v2.3.0-58-g3fde462"
         },
         {
             "rdf:type": "prov:Entity",
@@ -39,7 +39,7 @@
     "prov:wasGeneratedBy": [
         {
             "dc:title": "python",
-            "dc:description": "3.7.6"
+            "dc:description": "3.7.7"
         },
         {
             "dc:title": "python-packages",
@@ -54,7 +54,7 @@
     "tables": [
         {
             "dc:conformsTo": "http://cldf.clld.org/v1.0/terms.rdf#FormTable",
-            "dc:extent": 3460,
+            "dc:extent": 3469,
             "tableSchema": {
                 "columns": [
                     {
@@ -115,14 +115,6 @@
                     {
                         "datatype": "boolean",
                         "name": "Loan"
-                    },
-                    {
-                        "datatype": "string",
-                        "name": "Graphemes"
-                    },
-                    {
-                        "datatype": "string",
-                        "name": "Profile"
                     }
                 ],
                 "foreignKeys": [
@@ -223,7 +215,7 @@
         },
         {
             "dc:conformsTo": "http://cldf.clld.org/v1.0/terms.rdf#ParameterTable",
-            "dc:extent": 340,
+            "dc:extent": 341,
             "tableSchema": {
                 "columns": [
                     {
