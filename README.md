@@ -19,12 +19,12 @@ Available online at http://hdl.handle.net/10524/52441
 ![CLTS SoundClass: 100%](https://img.shields.io/badge/CLTS%20SoundClass-100%25-brightgreen.svg "CLTS SoundClass: 100%")
 
 - **Varieties:** 15
-- **Concepts:** 340
-- **Lexemes:** 3,460
+- **Concepts:** 341
+- **Lexemes:** 3,469
 - **Sources:** 1
 - **Synonymy:** 1.01
 - **Invalid lexemes:** 0
-- **Tokens:** 14,198
+- **Tokens:** 14,226
 - **Segments:** 98 (0 BIPA errors, 0 CTLS sound class errors, 98 CLTS modified)
 - **Inventory size (avg):** 37.20
 
