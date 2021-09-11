@@ -59,10 +59,16 @@ class Dataset(BaseDataset):
             if lang == "Notes":
                 continue
 
-            for concept, value in row.items():
-                args.writer.add_lexemes(
+            for i, (concept, value) in enumerate(row.items()):
+                for lex in args.writer.add_forms_from_value(
                     Language_ID=languages[lang],
                     Parameter_ID=concepts[concept],
                     Value=value,
                     Source="luangthongkum2019",
-                )
+                    Cognacy=str(i+1)):
+                    args.writer.add_cognate(
+                            lexeme=lex,
+                            Cognateset_ID=str(i+1),
+                            Source="luangthongkum2019"
+                            )
+

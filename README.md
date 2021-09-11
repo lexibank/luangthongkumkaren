@@ -29,6 +29,8 @@ Available online at http://hdl.handle.net/10524/52441
 - **Lexemes:** 3,436
 - **Sources:** 1
 - **Synonymy:** 1.01
+- **Cognacy:** 3,436 cognates in 341 cognate sets (0 singletons)
+- **Cognate Diversity:** 0.00
 - **Invalid lexemes:** 0
 - **Tokens:** 13,134
 - **Segments:** 108 (0 BIPA errors, 0 CTLS sound class errors, 108 CLTS modified)
