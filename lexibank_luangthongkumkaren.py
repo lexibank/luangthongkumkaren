@@ -9,8 +9,8 @@ class Dataset(BaseDataset):
     dir = Path(__file__).parent
     id = "luangthongkumkaren"
     form_spec = FormSpec(
-        separators="~/,",
-        missing_data=["---"],
+        separators="/,",
+        missing_data=["---", "- (?)"],
         brackets={"(": ")", "‘": "’"},
         # fix spaces before diacritics
         replacements=[
@@ -30,6 +30,7 @@ class Dataset(BaseDataset):
             ("chuə̯ m³¹̈", "chuə̯m³¹̈"),
             ("jɔ¹¹ ẗ hu³³", "jɔ¹¹ thü³³"),
             ("lɛ⁵̃ ⁵", "lɛ⁵̃⁵"),
+            (" ", "_"),
         ],
     )
 

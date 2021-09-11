@@ -1,139 +1,204 @@
-Grapheme	EXAMPLES	SCA	IPA	FREQUENCY
-^	*loɁᴰ;*dəŋᴮ;*təᴮ;*blaᴮ;*thaŋᴮ		NULL	3460
-$	*loɁᴰ;*dəŋᴮ;*təᴮ;*blaᴮ;*thaŋᴮ		NULL	3460
-*	*loɁᴰ;*dəŋᴮ;*təᴮ;*blaᴮ;*thaŋᴮ		NULL	539
-’	tɨ⁴⁵’;thɔ⁴⁵’;pha⁴⁵’;wa⁴⁵’;bɔ⁴⁵’		NULL	91
-^ ̈			NULL	0
-ᴮ	*dəŋᴮ;*təᴮ;*blaᴮ;*thaŋᴮ;*phaᴮ	1	ᴮ/¹¹	148
-¹¹	tɔ¹¹;to¹¹;pla¹¹;thɛ¹¹;phe¹¹	1	¹¹	543
-⁴⁵	khiɁ⁴⁵;hwɛɁ⁴⁵;laɁ⁴⁵;thauɁ⁴⁵mi³³;chwiɁ⁴⁵	2	⁴⁵	281
-ᴰ	*loɁᴰ;*kjaɁᴰ;*pheɁᴰ;*kwatᴰ;laɁᴰ	3	ᴰ/⁵¹	71
-²¹	nɔɁ²¹;ɈauɁ²¹;ɟɛɁ²¹;pɨɁ²¹;tɛɁ²¹	3	²¹	193
-³¹	ɕja³¹ sa⁵³;jɔŋ³¹kaŋ⁵³;kaiɁ³¹;phaiɁ³¹;kɔuɁ³¹	3	³¹	59
-⁵³	ɟu¹¹khaŋ⁵³;θa⁵³;thaŋ⁵³;nai⁵³;Ɂu⁵³	3	⁵³	208
-ᵀ	*k-sreᵀ;*t-laᵀ	4	ᵀ/³³	2
-ᴬ	*khanᴬ;*sraᴬ;*plaᴬ;*thamᴬ;*gramᴬ	5	ᴬ/⁵⁵	140
-⁵⁵	khja⁵⁵;pha⁵⁵;wɛ⁵⁵;thɛ⁵⁵mi¹¹;khrwi⁵⁵	5	⁵⁵	576
-²	*Ɂbɔᴬ *boɁ²;*thaŋ²;*wa²;*phiɁ²;*do²	6	²	81
-³	*thy³;*phɣe³;*daɁ²baŋ³;*ɣa³;*phwa³	6	³	1822
-¹	*lejᴬ *laN¹;*phla¹;*khiɁ¹;*kho²nuɁ¹;*ny¹	6	¹	42
-⁴	*tham⁴;*Ɂu⁴;*khli⁴;*xwi⁴;*phe⁴	6	⁴	39
-⁵	khɛ̃³⁵;sja³⁵;thɔ̃³⁵;ni³⁵;khlei³⁵	6	⁵	52
-a	*blaᴮ;*thaŋᴮ;*phaᴮ;*kjaɁᴰ;*hwaᴮ	A	a	818
-ã	Ɂãi³³;phã³⁵;phlãu³³;dãə³³;Ɂãi⁵⁵	A	ã	34
-ɑ	khɑ³³	A	ɑ	1
-ɑ̃	Ɂɑ̃⁵⁵;thɑ̃⁵⁵;mɑ̃⁵⁵;bɑ̃³³;chɑ̃³³	A	ɑ̃	20
-β	βʉ¹¹;βou³³;βõu³³	B	β	3
-c	*ceᴮ;*cuᴬ;*caᴬ;*cwiKᴰ;*cəŋᴬ	C	c	78
-Ɉ	*Ɉimᴮ;*Ɉiᴮ;ɈauɁ²¹;Ɉu¹¹;Ɉau³³	C	ɟ	7
-ɟ	ɟu¹¹khaŋ⁵³;ɟɨ¹¹;ɟɛɁ²¹;ɟa¹¹	C	ɟ	4
-ch	*chjaNᴬ;*chwɛᴮ;*k-chaŋᴬ;*chuNᴬ;*chuNᴮ	C	cʰ	168
-θ	θa⁵³;θwi¹¹;θɨɁ⁴⁵;θau¹¹;θɨ¹¹	D	θ	77
-e	*pheɁᴰ;*k-hneᴬ;*klejᴬ;*khrejᴮ;*srejᴮ	E	e	345
-ə	*dəŋᴮ;*təᴮ;*Ɂdəᴬ;*Ɂəŋᴬ;*thəNᴬ	E	ə	263
-ɛ	*ɁɛNᴮ;*chwɛᴮ;*Ɂdɛᴮ;*jɛɁᴰ;*mɛɁᴰ	E	ɛ	239
-ə̃	thə̃ɨ̯³³;mə̃ɨ³¹̈;phlə̃ɨ⁵³;thə̃ɨ³¹;θə̃ɨ⁵⁵	E	ə̃	14
-ə̯	nə̯u¹¹̈;pə̯ɨ³³;mə̯ɨ³³;chə̯ ut²¹;chuə̯ m³³	E	ə̯	8
-ɛ̃	thɛ̃³³;khɛ̃³⁵;bɛ̃³³;chɛ̃³⁵;khɛ̃³⁵	E	ɛ̃	18
-x	*xi²;*xwi⁴;*xoɁ¹;*xa¹;*xy⁴	G	x	37
-ɣ	*phɣe³;*ɣa³;*ɣyɁ¹;*phɣiɁ¹;*phɣa¹	G	ɣ	61
-h	*hwaᴮ;*hlowᴮ;*k-hneᴬ;*hatᴰ;*hlowᴮ	H	h	62
-Ɂ	*loɁᴰ;*kjaɁᴰ;*Ɂbaŋᴮ;*pheɁᴰ;laɁᴰ	H	ʔ	654
-ʔ	*ʔminᴬ	H	ʔ	1
-i	*swiᴮ;*thɔɁᴰmiᴬ;*khrwitᴰ;*siɁᴰ;*kwiᴮ	I	i	709
-ĩ	thɛĩ ³¹;bɛĩ ⁵⁵;lɛĩ ³³;nɛĩ ⁵⁵	I	ĩ	4
-ɨ	*jɨmᴮ;*pɨᴮ;*kɨᴬ;*mwɨNᴬ;*hmɨᴮ	I	ɨ	152
-ɪ	nɪ³³;a⁵⁵bwɪ³³;ɪ³³;bɪ¹¹;mɪ³³	I	ɪ	13
-ɨ̯	təɨ̯ ¹¹;thə̃ɨ̯³³;θə̃ɨ̯ ⁵⁵	I	ɨ̯	3
-j	*kjaɁᴰ;*jɨmᴮ;*klejᴬ;*khrejᴮ;*srejᴮ	J	j	193
-K	*cwiKᴰ	K	K/k	1
-g	*gramᴬ;*s-gaNᴬ;*grɔtᴰ;* glamᴮ;*g-rjaᴬ	K	g	26
-k	*kjaɁᴰ;*kwatᴰ;*k-hneᴬ;*klejᴬ;*nokᴰ	K	k	219
-kh	*khanᴬ;*khaᴮ;*khrejᴮ;*khrwitᴰ;*khoᴮ	K	kʰ	293
-l	*loɁᴰ;*blaᴮ;*plaᴬ;*hlowᴮ;laɁᴰ	L	l	604
-m	*thamᴬ;*gramᴬ;*jɨmᴮ;*thɔɁᴰmiᴬ;s-hmaᴮ	M	m	347
-N	*ɁɛNᴮ;*phruNᴬ;*chjaNᴬ;*ɁbɔNᴬ;*khaNᴬ	N	N/n	37
-n	*khanᴬ;*k-hneᴬ;*nokᴰ;*nuᴮ;b-naᴮ	N	n	238
-ŋ	*dəŋᴮ;*thaŋᴮ;*Ɂbaŋᴮ;daɁᴰɁbaŋᴬ;*ŋjajᴬ	N	ŋ	184
-ɲ	*hɲawᴬ;*hɲaᴮ;*ɲaᴬ;*hɲɔɁᴰ;ɲɔ³³	N	ɲ	13
-b	*blaᴮ;*Ɂbaŋᴮ;b-naᴮ;*breᴬ;daɁᴰɁbaŋᴬ	P	b	188
-p	*plaᴬ;*paɁᴰ;*p;*pɨᴮ;*plɔŋᴮ	P	p	206
-ɓ	ɓa³³;ɓʊ³³;ɓe³³ ɓa³³;ɓe³³ ɓa³³;-ɓɔ³³	P	ɓ	6
-ph	*phaᴮ;*pheɁᴰ;*phrɔᴬ;*pheᴬ;*phruNᴬ	P	pʰ	222
-r	*sraᴬ;*gramᴬ;*khrejᴮ;*phrɔᴬ;*khrwitᴰ	R	r	157
-ʀ	ʀu³³	R	ʀ	1
-s	*sraᴬ;*swiᴮ;*srejᴮ;*siɁᴰ;*swaᴮ	S	s	228
-z	ze³³	S	z	1
-ɕ	ɕɨ¹¹;ɕi⁵³;ɕɨ⁵³ca¹¹;ɕi¹¹;ɕi⁵³	S	ɕ	32
-ʃ	ʃi⁵⁵;ʃwɛ³³;ʃa⁵⁵;ʃʊ³³;ʃe⁵⁵	S	ʃ	15
-d	*dəŋᴮ;*Ɂdoᴮ;daɁᴰɁbaŋᴬ;*Ɂdəᴬ;*Ɂdejᴬ	T	d	179
-t	*təᴮ;*kwatᴰ;*khrwitᴰ;*t;*hatᴰ	T	t	133
-ɗ	ɗi⁵⁵;-ɗɛ³³;ɗɔ⁵⁵;- ɗi³³;ɗi³³	T	ɗ	10
-th	*thaŋᴮ;*thamᴬ;*thoᴮ;*thɔɁᴰmiᴬ;*thuᴮ	T	tʰ	316
-o	*loɁᴰ;*hlowᴮ;*Ɂdoᴮ;*thoᴮ;*nokᴰ	U	o	254
-õ	phõ⁵⁵;thu⁵⁵thõ¹¹;lõ⁵⁵;phlõu⁵⁵;nõ⁵⁵	U	õ	16
-ɔ	*thɔɁᴰmiᴬ;*phrɔᴬ;*plɔŋᴮ;*ɁbɔNᴬ;*k-hnɔNᴮ	U	ɔ	276
-o̯	Ɂa¹¹ko̯u⁵⁵	U	o̯	1
-ɔ̃	thɔ̃³⁵;lɔ̃³³;bɔ̃⁵⁵;nɔ̃³³;Ɂɔ̃³³	U	ɔ̃	27
-w	*hwaᴮ;*hlowᴮ;*kwatᴰ;*swiᴮ;*khrwitᴰ	W	w	309
-u	*Ɂuᴬ;*nuᴮ;*phruNᴬ;kuᴬ;*thuᴮ	Y	u	413
-y	*thy³;*ny¹;*phy²;*ly²;*nyɁ¹	Y	y	13
-ü	jɔ¹¹ thü³³	Y	ü	1
-ũ	jũ¹¹	Y	ũ	1
-ʉ	mʉ³³;βʉ¹¹;thʉ⁵⁵;dʉ⁵⁵	Y	ʉ	4
-ʊ	hʊ³³;ʊ³³;kə³³nʊ³³;ɓʊ³³;ʃʊ³³	Y	ʊ	9
-u̯	mu̯əm⁵³;su̯ən³³	Y	u̯	2
--	*k-hneᴬ;b-naᴮ;*s-kiᴬ;s-hmaᴮ;*k-hniᴬ	_	+	70
-a¹¹̈	pla¹¹̈;xa¹¹̈;phla¹¹̈;chɛ̃³⁵xa¹¹̈;phla¹¹̈	A 1	ä ¹¹	19
-ã¹¹̈	thã¹¹̈;kwã¹¹̈	A 1	ã̈ ¹¹	2
-ɑ̃¹¹̈	lɑ̃¹¹̈;mɑ̃¹¹̈	A 1	ɑ̃̈ ¹¹	2
-a³¹̈	sa³¹̈;pla³¹̈;ɕja³¹̈;khla³¹̈;ŋa³¹̈	A 3	ä ³¹	45
-a³¹῀	pha³¹῀;wa³¹῀;kha³¹῀;swa³¹῀;kha³¹῀	A 3	ã ³¹	16
-e¹¹̈	kə³³se¹¹̈;kə³³le¹¹̈;ne¹¹̈;ɣe¹¹̈;mi³³ne¹¹̈	E 1	ë ¹¹	6
-ə¹¹̈	thə¹¹̈;tə¹¹̈;lə¹¹̈;ɣə¹¹̈	E 1	ə̈ ¹¹	4
-ɛ¹¹̈	paɁ²¹nɛ¹¹̈;mɛ¹¹̈;jɛ¹¹̈;mɛ¹¹̈;lɛ¹¹̈	E 1	ɛ̈ ¹¹	14
-ɛ̃¹¹̈	mɛ̃¹¹̈	E 1	ɛ̃̈ ¹¹	1
-ɛ³̃⁵	sɛ³̃⁵	E 2	ɛ̃ ³⁵	1
-e³¹̈	ne³¹̈;phe³¹̈;se³¹̈;paɁ⁴⁵de³¹̈;ple³¹̈	E 3	ë ³¹	16
-e³¹῀	Ɂe³¹῀;be³¹῀;Ɂe³¹῀;me³¹῀;de³¹῀	E 3	ẽ ³¹	11
-ə³¹̈	bə³¹̈;bə³¹̈;lə³¹̈;pə³¹̈dɛ³³;baə³¹̈	E 3	ə̈ ³¹	6
-ə³¹῀	phlə³¹῀;də³¹῀;lə³¹῀;thə³¹῀;blə³¹῀	E 3	ə̃ ³¹	6
-ɛ³¹̈	bwɛ³¹̈;thwɛ³¹̈;bwɛ³¹̈;thwɛ³¹̈;kwɛ³¹̈	E 3	ɛ̈ ³¹	6
-ɛ³¹῀	chwɛ³¹῀;dɛ³¹῀;dwɛ³¹῀	E 3	ɛ̃ ³¹	3
-ə̃³¹̈	Ɂə̃³¹̈;phə̃³¹̈;cə̃³¹̈	E 3	ə̃̈ ³¹	3
-ɛ⁵̃⁵	lɛ⁵̃⁵;pu¹¹khɛ⁵̃⁵	E 5	ɛ̃ ⁵⁵	2
-i¹¹̈	lei¹¹̈;lwi¹¹̈;li¹¹̈;wai¹¹̈;ni¹¹̈	I 1	ï ¹¹	23
-ɨ¹¹̈	məɨ¹¹̈;lɨ¹¹̈;jɨ¹¹̈;ɣɨ¹¹̈;mɨ¹¹̈	I 1	ɨ̈ ¹¹	8
-ɨ̯¹¹̈	ɣəɨ̯¹¹̈	I 1	ɨ̯̈ ¹¹	1
-i³¹̈	phri³¹̈;ki³¹̈;si³¹̈;khi³¹̈;khli³¹̈	I 3	ï ³¹	36
-i³¹῀	swi³¹῀;xi³¹῀;si³¹῀;khwi³¹῀;si³¹῀	I 3	ĩ ³¹	15
-ĩ³¹̈	mɛĩ³¹̈	I 3	ɨ̃̈ ³¹	1
-ɨ³¹̈	dɨ³¹̈;mə̃ɨ³¹̈;jɨ³¹̈;nə̃ɨ³¹̈	I 3	ɨ̈ ³¹	4
-ɨ³¹῀	lɨ³¹῀;mɨ³¹῀;bɨ³¹῀;phɨ³¹῀;hɨ³¹῀	I 3	ɨ̃ ³¹	7
-o¹¹̈	mo¹¹̈;to¹¹̈;khi³³ko¹¹̈;to¹¹̈;ta¹¹ko¹¹̈	U 1	õ ¹¹	6
-ɔ¹¹̈	tɔ¹¹̈;jɔ¹¹̈;nɔ¹¹̈	U 1	ɔ̈ ¹¹	3
-o³¹̈	lo³¹̈;tho³¹̈;kho³¹̈;khlo³¹̈;lo³¹̈	U 3	ö ³¹	11
-o³¹῀	do³¹῀;tho³¹῀;lo³¹῀;kho³¹῀;no³¹῀	U 3	õ ³¹	11
-õ³¹̈	thuɁ²¹thõ³¹̈;bõ³¹̈;phõ³¹̈;mlõ³¹̈	U 3	ṏ ³¹	4
-ɔ³¹῀	thɔ³¹῀;bɔ³¹῀;Ɂɔ³¹῀ Ɂo³³;mi³³mɔ³¹῀;Ɂɔ³¹῀	U 3	ɔ̃ ³¹	12
-ɔ̃³¹̈	daɁ⁴⁵bɔ̃³¹̈;Ɂɔ̃³¹̈Ɂu⁵⁵;lɔ̃³¹̈;Ɂɔ̃³¹̈;bɨ⁵⁵lɔ̃³¹̈	U 3	ɔ̃̈ ³¹	8
-u¹¹̈	nə̯u¹¹̈;thu¹¹̈;ɣou¹¹̈;lãu¹¹̈;khu¹¹̈	Y 1	ü ¹¹	12
-u³¹̈	Ɂu³¹̈;khu³¹̈;cu³¹̈;su³¹̈;phru³¹̈	Y 3	ü ³¹	18
-u³¹῀	khu³¹῀;chu³¹῀;su³¹῀;su³¹῀;pu³¹῀	Y 3	ũ ³¹	7
-am³¹̈	tham³¹̈;tham³¹̈	A M 3	ä m ³¹	2
-an³¹̈	khan³¹̈;Ɂan³¹̈	A N 3	ä n ³¹	2
-aŋ³¹̈	taɁ⁴⁵baŋ³¹̈;chaŋ³¹̈;Ɂaŋ³¹̈;thaŋ³¹̈;taɁ⁴⁵baŋ³¹̈	A N 3	ä ŋ ³¹	7
-əm³¹̈	səm³¹̈;chəm³¹̈;thuəm³¹̈;duəm³¹̈;səm³¹̈	E M 3	ə̈ m ³¹	5
-ɛm³¹̈	khlɛm³¹̈	E M 3	ɛ̈ m ³¹	1
-ə̯m³¹̈	chuə̯m³¹̈	E M 3	ə̯̈ m ³¹	1
-en³¹̈		E N 3	ë ŋ ³¹	0
-eŋ³¹̈	Ɂeŋ³¹̈;pleŋ³¹̈;reŋ³¹̈;Ɂeŋ³¹̈;pleŋ³¹̈	E N 3	ë ŋ ³¹	6
-ən³¹̈	chən³¹̈;rən³¹̈	E N 3	ə̈ ŋ ³¹	2
-əŋ³¹̈	Ɂəŋ³¹̈;təŋ³¹̈;səŋ³¹̈;cəŋ³¹̈;Ɂəŋ³¹̈	E N 3	ə̈ ŋ ³¹	7
-ɛŋ³¹̈	chɛŋ³¹̈;thɛŋ³¹̈;khlɛŋ³¹̈;chɛŋ³¹̈;thɛŋ³¹̈	E N 3	ɛ̈ ŋ ³¹	5
-ə̯n³¹̈	ruə̯n³¹̈	E N 3	ə̯̈ n ³¹	1
-ɨm³¹̈	phrɨm³¹̈	I M 3	ɨ̈ m ³¹	1
-in³¹̈	min³¹̈;min³¹̈	I N 3	ï n ³¹	2
-ɨn³¹̈	thɨn³¹̈;dɨn³¹̈;phrɨn³¹̈	I N 3	ɨ̈ n ³¹	3
-om³¹̈	chom³¹̈	U M 3	ö m ³¹	1
-oŋ³¹̈	Ɂoŋ³¹̈;Ɂoŋ³¹̈	U N 3	ö ŋ ³¹	2
+Grapheme	IPA	EXAMPLES	SCA	FREQUENCY"
+^	NULL	*loɁᴰ;*dəŋᴮ;*təᴮ;*blaᴮ;*thaŋᴮ		3460
+^-	NULL			
+-$	NULL			
+^*~kl( )ŋᴮ	k l Ø/ə ŋ ᴮ/¹¹			
+*_	NULL			
+^*_	NULL			
+hm	hm/m̥			
+hn	hn/n̥			
+hŋ	hŋ/ŋ̊			
+_-_	+			
+$	NULL	*loɁᴰ;*dəŋᴮ;*təᴮ;*blaᴮ;*thaŋᴮ		3460
+*	NULL	*loɁᴰ;*dəŋᴮ;*təᴮ;*blaᴮ;*thaŋᴮ		539
+’	NULL	tɨ⁴⁵’;thɔ⁴⁵’;pha⁴⁵’;wa⁴⁵’;bɔ⁴⁵’		91
+^ ̈	NULL			0
+ᴮ	ᴮ/¹¹	*dəŋᴮ;*təᴮ;*blaᴮ;*thaŋᴮ;*phaᴮ	1	148
+¹¹	¹¹	tɔ¹¹;to¹¹;pla¹¹;thɛ¹¹;phe¹¹	1	543
+³⁵	³⁵ +
+^lɔ¹¹_l_i³³	l ɔ ¹¹ + l i ³³
+^ɣəɨ̯¹¹̈	ɣ əɨ̯ ¹¹
+^mɛĩ³¹̈	m ɛĩ ³¹
+^hwa¹¹~hau¹¹	h w a ¹¹
+^*~	NULL
+~$	NULL
+^ruə̯n³¹̈	r u/w ə n ³¹
+^chuə̯m³¹̈	cʰ u/w ə m ³¹
+^Ɂɔ³¹῀_Ɂo³³	ʔ ɔ̃ ³¹ + ʔ o ³³
+^*Ɂbɔᴬ_*boɁ²	ˀb ɔ ᴬ/⁵⁵ + b o ʔ ²
+^*lwiᴮ_*lwi¹_	l w i ᴮ/¹¹ + l w i ¹
+^hwɛ³³~khwɛ³³	h w ɛ ³³
+³⁵$	³⁵
+^~	NULL
+³¹_	³¹ +
+⁴⁵	⁴⁵ +
+^chuə̯_m³³	cʰ u/w ə m ³³
+uə̯_m	u/w ə m
+^*-hnaᴮ	hn/n̥ a ᴮ/¹¹
+^*lejᴬ_*laN¹	l ei ᴬ/⁵⁵ + l a N/ŋ ¹
+^*g-_hmaNᴬ	g + hm/m̥ a N/ŋ ᴬ/⁵⁵
+Ɂb	ˀb
+^Ɂb	ˀb
+³_$	³
+_Ɂ⁴⁵	ʔ ⁴⁵ +
+^*hl	hl/l̥
+^*hlaŋᴬᴮ_k-daɁᴰ	hl/l̥ a ŋ ᴬᴮ/¹¹ + k + d a ʔ ᴰ/⁵¹
+ej	ei
+_¹¹	¹¹
+⁴⁵’	⁴⁵ +
+⁴⁵’$	⁴⁵
+³³	³³ +
+³³-$	³³
+³³~$	³³
+³³-	³³
+³³$	³³
+əɨ̯	əɨ̯
+⁴⁵$	⁴⁵	khiɁ⁴⁵;hwɛɁ⁴⁵;laɁ⁴⁵;thauɁ⁴⁵mi³³;chwiɁ⁴⁵	2	281
+ᴰ	ᴰ/⁵¹	*loɁᴰ;*kjaɁᴰ;*pheɁᴰ;*kwatᴰ;laɁᴰ	3	71
+²¹	²¹	nɔɁ²¹;ɈauɁ²¹;ɟɛɁ²¹;pɨɁ²¹;tɛɁ²¹	3	193
+³¹	³¹	ɕja³¹ sa⁵³;jɔŋ³¹kaŋ⁵³;kaiɁ³¹;phaiɁ³¹;kɔuɁ³¹	3	59
+⁵³	⁵³	ɟu¹¹khaŋ⁵³;θa⁵³;thaŋ⁵³;nai⁵³;Ɂu⁵³	3	208
+ᵀ	ᵀ/³³	*k-sreᵀ;*t-laᵀ	4	2
+ᴬ	ᴬ/⁵⁵	*khanᴬ;*sraᴬ;*plaᴬ;*thamᴬ;*gramᴬ	5	140
+⁵⁵	⁵⁵	khja⁵⁵;pha⁵⁵;wɛ⁵⁵;thɛ⁵⁵mi¹¹;khrwi⁵⁵	5	576
+²	²	*Ɂbɔᴬ *boɁ²;*thaŋ²;*wa²;*phiɁ²;*do²	6	81
+³	³	*thy³;*phɣe³;*daɁ²baŋ³;*ɣa³;*phwa³	6	1822
+¹	¹	*lejᴬ *laN¹;*phla¹;*khiɁ¹;*kho²nuɁ¹;*ny¹	6	42
+⁴	⁴	*tham⁴;*Ɂu⁴;*khli⁴;*xwi⁴;*phe⁴	6	39
+⁵	⁵	khɛ̃³⁵;sja³⁵;thɔ̃³⁵;ni³⁵;khlei³⁵	6	52
+a	a	*blaᴮ;*thaŋᴮ;*phaᴮ;*kjaɁᴰ;*hwaᴮ	A	818
+ã	ã	Ɂãi³³;phã³⁵;phlãu³³;dãə³³;Ɂãi⁵⁵	A	34
+ɑ	ɑ	khɑ³³	A	1
+ɑ̃	ɑ̃	Ɂɑ̃⁵⁵;thɑ̃⁵⁵;mɑ̃⁵⁵;bɑ̃³³;chɑ̃³³	A	20
+β	β	βʉ¹¹;βou³³;βõu³³	B	3
+c	c	*ceᴮ;*cuᴬ;*caᴬ;*cwiKᴰ;*cəŋᴬ	C	78
+Ɉ	ɟ	*Ɉimᴮ;*Ɉiᴮ;ɈauɁ²¹;Ɉu¹¹;Ɉau³³	C	7
+ɟ	ɟ	ɟu¹¹khaŋ⁵³;ɟɨ¹¹;ɟɛɁ²¹;ɟa¹¹	C	4
+ch	cʰ	*chjaNᴬ;*chwɛᴮ;*k-chaŋᴬ;*chuNᴬ;*chuNᴮ	C	168
+θ	θ	θa⁵³;θwi¹¹;θɨɁ⁴⁵;θau¹¹;θɨ¹¹	D	77
+e	e	*pheɁᴰ;*k-hneᴬ;*klejᴬ;*khrejᴮ;*srejᴮ	E	345
+ə	ə	*dəŋᴮ;*təᴮ;*Ɂdəᴬ;*Ɂəŋᴬ;*thəNᴬ	E	263
+ɛ	ɛ	*ɁɛNᴮ;*chwɛᴮ;*Ɂdɛᴮ;*jɛɁᴰ;*mɛɁᴰ	E	239
+ə̃	ə̃	thə̃ɨ̯³³;mə̃ɨ³¹̈;phlə̃ɨ⁵³;thə̃ɨ³¹;θə̃ɨ⁵⁵	E	14
+ə̯	ə̯/ə	nə̯u¹¹̈;pə̯ɨ³³;mə̯ɨ³³;chə̯ ut²¹;chuə̯ m³³	E	8
+uə̯	u/w ə
+^suə̯_m³³~suə̯_n³³	s u/w ə m ³³
+chə̯_ut²¹	cʰ əu t ²¹
+^Ɂɛn³³_~_Ɂɛm³³	ʔ ɛ n ³³
+ɛ̃	ɛ̃	thɛ̃³³;khɛ̃³⁵;bɛ̃³³;chɛ̃³⁵;khɛ̃³⁵	E	18
+x	x	*xi²;*xwi⁴;*xoɁ¹;*xa¹;*xy⁴	G	37
+ɣ	ɣ	*phɣe³;*ɣa³;*ɣyɁ¹;*phɣiɁ¹;*phɣa¹	G	61
+h	h	*hwaᴮ;*hlowᴮ;*k-hneᴬ;*hatᴰ;*hlowᴮ	H	62
+Ɂ	ʔ	*loɁᴰ;*kjaɁᴰ;*Ɂbaŋᴮ;*pheɁᴰ;laɁᴰ	H	654
+ʔ	ʔ	*ʔminᴬ	H	1
+i	i	*swiᴮ;*thɔɁᴰmiᴬ;*khrwitᴰ;*siɁᴰ;*kwiᴮ	I	709
+ĩ	ĩ	thɛĩ ³¹;bɛĩ ⁵⁵;lɛĩ ³³;nɛĩ ⁵⁵	I	4
+ɨ	ɨ	*jɨmᴮ;*pɨᴮ;*kɨᴬ;*mwɨNᴬ;*hmɨᴮ	I	152
+ɪ	ɪ	nɪ³³;a⁵⁵bwɪ³³;ɪ³³;bɪ¹¹;mɪ³³	I	13
+ɨ̯	ɨ̯	təɨ̯ ¹¹;thə̃ɨ̯³³;θə̃ɨ̯ ⁵⁵	I	3
+j	j	*kjaɁᴰ;*jɨmᴮ;*klejᴬ;*khrejᴮ;*srejᴮ	J	193
+K	K/k	*cwiKᴰ	K	1
+g	g	*gramᴬ;*s-gaNᴬ;*grɔtᴰ;* glamᴮ;*g-rjaᴬ	K	26
+k	k	*kjaɁᴰ;*kwatᴰ;*k-hneᴬ;*klejᴬ;*nokᴰ	K	219
+kh	kʰ	*khanᴬ;*khaᴮ;*khrejᴮ;*khrwitᴰ;*khoᴮ	K	293
+l	l	*loɁᴰ;*blaᴮ;*plaᴬ;*hlowᴮ;laɁᴰ	L	604
+m	m	*thamᴬ;*gramᴬ;*jɨmᴮ;*thɔɁᴰmiᴬ;s-hmaᴮ	M	347
+N	N/n	*ɁɛNᴮ;*phruNᴬ;*chjaNᴬ;*ɁbɔNᴬ;*khaNᴬ	N	37
+n	n	*khanᴬ;*k-hneᴬ;*nokᴰ;*nuᴮ;b-naᴮ	N	238
+ŋ	ŋ	*dəŋᴮ;*thaŋᴮ;*Ɂbaŋᴮ;daɁᴰɁbaŋᴬ;*ŋjajᴬ	N	184
+ɲ	ɲ	*hɲawᴬ;*hɲaᴮ;*ɲaᴬ;*hɲɔɁᴰ;ɲɔ³³	N	13
+b	b	*blaᴮ;*Ɂbaŋᴮ;b-naᴮ;*breᴬ;daɁᴰɁbaŋᴬ	P	188
+p	p	*plaᴬ;*paɁᴰ;*p;*pɨᴮ;*plɔŋᴮ	P	206
+ɓ	ɓ	ɓa³³;ɓʊ³³;ɓe³³ ɓa³³;ɓe³³ ɓa³³;-ɓɔ³³	P	6
+ph	pʰ	*phaᴮ;*pheɁᴰ;*phrɔᴬ;*pheᴬ;*phruNᴬ	P	222
+r	r	*sraᴬ;*gramᴬ;*khrejᴮ;*phrɔᴬ;*khrwitᴰ	R	157
+ʀ	ʀ	ʀu³³	R	1
+s	s	*sraᴬ;*swiᴮ;*srejᴮ;*siɁᴰ;*swaᴮ	S	228
+z	z	ze³³	S	1
+ɕ	ɕ	ɕɨ¹¹;ɕi⁵³;ɕɨ⁵³ca¹¹;ɕi¹¹;ɕi⁵³	S	32
+ʃ	ʃ	ʃi⁵⁵;ʃwɛ³³;ʃa⁵⁵;ʃʊ³³;ʃe⁵⁵	S	15
+d	d	*dəŋᴮ;*Ɂdoᴮ;daɁᴰɁbaŋᴬ;*Ɂdəᴬ;*Ɂdejᴬ	T	179
+t	t	*təᴮ;*kwatᴰ;*khrwitᴰ;*t;*hatᴰ	T	133
+ɗ	ɗ	ɗi⁵⁵;-ɗɛ³³;ɗɔ⁵⁵;- ɗi³³;ɗi³³	T	10
+th	tʰ	*thaŋᴮ;*thamᴬ;*thoᴮ;*thɔɁᴰmiᴬ;*thuᴮ	T	316
+o	o	*loɁᴰ;*hlowᴮ;*Ɂdoᴮ;*thoᴮ;*nokᴰ	U	254
+õ	õ	phõ⁵⁵;thu⁵⁵thõ¹¹;lõ⁵⁵;phlõu⁵⁵;nõ⁵⁵	U	16
+ɔ	ɔ	*thɔɁᴰmiᴬ;*phrɔᴬ;*plɔŋᴮ;*ɁbɔNᴬ;*k-hnɔNᴮ	U	276
+o̯	o̯	Ɂa¹¹ko̯u⁵⁵	U	1
+ɔ̃	ɔ̃	thɔ̃³⁵;lɔ̃³³;bɔ̃⁵⁵;nɔ̃³³;Ɂɔ̃³³	U	27
+w	w	*hwaᴮ;*hlowᴮ;*kwatᴰ;*swiᴮ;*khrwitᴰ	W	309
+u	u	*Ɂuᴬ;*nuᴮ;*phruNᴬ;kuᴬ;*thuᴮ	Y	413
+y	y	*thy³;*ny¹;*phy²;*ly²;*nyɁ¹	Y	13
+ü	ü	jɔ¹¹ thü³³	Y	1
+ũ	ũ	jũ¹¹	Y	1
+ʉ	ʉ	mʉ³³;βʉ¹¹;thʉ⁵⁵;dʉ⁵⁵	Y	4
+ʊ	ʊ	hʊ³³;ʊ³³;kə³³nʊ³³;ɓʊ³³;ʃʊ³³	Y	9
+u̯	u̯	mu̯əm⁵³;su̯ən³³	Y	2
+-	+	*k-hneᴬ;b-naᴮ;*s-kiᴬ;s-hmaᴮ;*k-hniᴬ	_	70
+a¹¹̈	ä ¹¹	pla¹¹̈;xa¹¹̈;phla¹¹̈;chɛ̃³⁵xa¹¹̈;phla¹¹̈	A 1	19
+ã¹¹̈	ã̈ ¹¹	thã¹¹̈;kwã¹¹̈	A 1	2
+ɑ̃¹¹̈	ɑ̃̈ ¹¹	lɑ̃¹¹̈;mɑ̃¹¹̈	A 1	2
+a³¹̈	ä ³¹	sa³¹̈;pla³¹̈;ɕja³¹̈;khla³¹̈;ŋa³¹̈	A 3	45
+a³¹῀	ã ³¹	pha³¹῀;wa³¹῀;kha³¹῀;swa³¹῀;kha³¹῀	A 3	16
+e¹¹̈	ë ¹¹	kə³³se¹¹̈;kə³³le¹¹̈;ne¹¹̈;ɣe¹¹̈;mi³³ne¹¹̈	E 1	6
+ə¹¹̈	ə̈ ¹¹	thə¹¹̈;tə¹¹̈;lə¹¹̈;ɣə¹¹̈	E 1	4
+ɛ¹¹̈	ɛ̈ ¹¹	paɁ²¹nɛ¹¹̈;mɛ¹¹̈;jɛ¹¹̈;mɛ¹¹̈;lɛ¹¹̈	E 1	14
+ɛ̃¹¹̈	ɛ̃̈ ¹¹	mɛ̃¹¹̈	E 1	1
+ɛ³̃⁵	ɛ̃ ³⁵	sɛ³̃⁵	E 2	1
+e³¹̈	ë ³¹	ne³¹̈;phe³¹̈;se³¹̈;paɁ⁴⁵de³¹̈;ple³¹̈	E 3	16
+e³¹῀	ẽ ³¹	Ɂe³¹῀;be³¹῀;Ɂe³¹῀;me³¹῀;de³¹῀	E 3	11
+ə³¹̈	ə̈ ³¹	bə³¹̈;bə³¹̈;lə³¹̈;pə³¹̈dɛ³³;baə³¹̈	E 3	6
+ə³¹῀	ə̃ ³¹	phlə³¹῀;də³¹῀;lə³¹῀;thə³¹῀;blə³¹῀	E 3	6
+ɛ³¹̈	ɛ̈ ³¹	bwɛ³¹̈;thwɛ³¹̈;bwɛ³¹̈;thwɛ³¹̈;kwɛ³¹̈	E 3	6
+ɛ³¹῀	ɛ̃ ³¹	chwɛ³¹῀;dɛ³¹῀;dwɛ³¹῀	E 3	3
+ə̃³¹̈	ə̃̈ ³¹	Ɂə̃³¹̈;phə̃³¹̈;cə̃³¹̈	E 3	3
+ɛ⁵̃⁵	ɛ̃ ⁵⁵	lɛ⁵̃⁵;pu¹¹khɛ⁵̃⁵	E 5	2
+i¹¹̈	ï ¹¹	lei¹¹̈;lwi¹¹̈;li¹¹̈;wai¹¹̈;ni¹¹̈	I 1	23
+ɨ¹¹̈	ɨ̈ ¹¹	məɨ¹¹̈;lɨ¹¹̈;jɨ¹¹̈;ɣɨ¹¹̈;mɨ¹¹̈	I 1	8
+ɨ̯¹¹̈	ɨ̯̈ ¹¹	ɣəɨ̯¹¹̈	I 1	1
+i³¹̈	ï ³¹	phri³¹̈;ki³¹̈;si³¹̈;khi³¹̈;khli³¹̈	I 3	36
+i³¹῀	ĩ ³¹	swi³¹῀;xi³¹῀;si³¹῀;khwi³¹῀;si³¹῀	I 3	15
+ĩ³¹̈	ɨ̃̈ ³¹	mɛĩ³¹̈	I 3	1
+ɨ³¹̈	ɨ̈ ³¹	dɨ³¹̈;mə̃ɨ³¹̈;jɨ³¹̈;nə̃ɨ³¹̈	I 3	4
+ɨ³¹῀	ɨ̃ ³¹	lɨ³¹῀;mɨ³¹῀;bɨ³¹῀;phɨ³¹῀;hɨ³¹῀	I 3	7
+o¹¹̈	õ ¹¹	mo¹¹̈;to¹¹̈;khi³³ko¹¹̈;to¹¹̈;ta¹¹ko¹¹̈	U 1	6
+ɔ¹¹̈	ɔ̈ ¹¹	tɔ¹¹̈;jɔ¹¹̈;nɔ¹¹̈	U 1	3
+o³¹̈	ö ³¹	lo³¹̈;tho³¹̈;kho³¹̈;khlo³¹̈;lo³¹̈	U 3	11
+o³¹῀	õ ³¹	do³¹῀;tho³¹῀;lo³¹῀;kho³¹῀;no³¹῀	U 3	11
+õ³¹̈	ṏ ³¹	thuɁ²¹thõ³¹̈;bõ³¹̈;phõ³¹̈;mlõ³¹̈	U 3	4
+ɔ³¹῀	ɔ̃ ³¹	thɔ³¹῀;bɔ³¹῀;Ɂɔ³¹῀ Ɂo³³;mi³³mɔ³¹῀;Ɂɔ³¹῀	U 3	12
+ɔ̃³¹̈	ɔ̃̈ ³¹	daɁ⁴⁵bɔ̃³¹̈;Ɂɔ̃³¹̈Ɂu⁵⁵;lɔ̃³¹̈;Ɂɔ̃³¹̈;bɨ⁵⁵lɔ̃³¹̈	U 3	8
+u¹¹̈	ü ¹¹	nə̯u¹¹̈;thu¹¹̈;ɣou¹¹̈;lãu¹¹̈;khu¹¹̈	Y 1	12
+u³¹̈	ü ³¹	Ɂu³¹̈;khu³¹̈;cu³¹̈;su³¹̈;phru³¹̈	Y 3	18
+u³¹῀	ũ ³¹	khu³¹῀;chu³¹῀;su³¹῀;su³¹῀;pu³¹῀	Y 3	7
+am³¹̈	ä m ³¹	tham³¹̈;tham³¹̈	A M 3	2
+an³¹̈	ä n ³¹	khan³¹̈;Ɂan³¹̈	A N 3	2
+aŋ³¹̈	ä ŋ ³¹	taɁ⁴⁵baŋ³¹̈;chaŋ³¹̈;Ɂaŋ³¹̈;thaŋ³¹̈;taɁ⁴⁵baŋ³¹̈	A N 3	7
+əm³¹̈	ə̈ m ³¹	səm³¹̈;chəm³¹̈;thuəm³¹̈;duəm³¹̈;səm³¹̈	E M 3	5
+ɛm³¹̈	ɛ̈ m ³¹	khlɛm³¹̈	E M 3	1
+ə̯m³¹̈	ə̯̈ m ³¹	chuə̯m³¹̈	E M 3	1
+en³¹̈	ë ŋ ³¹		E N 3	0
+eŋ³¹̈	ë ŋ ³¹	Ɂeŋ³¹̈;pleŋ³¹̈;reŋ³¹̈;Ɂeŋ³¹̈;pleŋ³¹̈	E N 3	6
+ən³¹̈	ə̈ ŋ ³¹	chən³¹̈;rən³¹̈	E N 3	2
+əŋ³¹̈	ə̈ ŋ ³¹	Ɂəŋ³¹̈;təŋ³¹̈;səŋ³¹̈;cəŋ³¹̈;Ɂəŋ³¹̈	E N 3	7
+ɛŋ³¹̈	ɛ̈ ŋ ³¹	chɛŋ³¹̈;thɛŋ³¹̈;khlɛŋ³¹̈;chɛŋ³¹̈;thɛŋ³¹̈	E N 3	5
+ə̯n³¹̈	ə̯̈ n ³¹	ruə̯n³¹̈	E N 3	1
+ɨm³¹̈	ɨ̈ m ³¹	phrɨm³¹̈	I M 3	1
+in³¹̈	ï n ³¹	min³¹̈;min³¹̈	I N 3	2
+ɨn³¹̈	ɨ̈ n ³¹	thɨn³¹̈;dɨn³¹̈;phrɨn³¹̈	I N 3	3
+om³¹̈	ö m ³¹	chom³¹̈	U M 3	1
+oŋ³¹̈	ö ŋ ³¹	Ɂoŋ³¹̈;Ɂoŋ³¹̈	U N 3	2
+^-_	NULL
+^la¹¹_~_laɁ²¹	l a ¹¹
+^_	NULL
+ɛĩ	ɛĩ
+¹¹_	¹¹ +
+^lɨ¹¹̈_~_lu¹¹̈	l ɨ ¹¹
+³³_	³³ +
+_³³$	³³
+_³³	³³ +
+_⁵⁵	⁵⁵ +
+_⁵⁵$	⁵⁵
+_³¹	³¹ +
+θə̃ɨ̯_	θ ə̃ɨ̯
+_³¹$	³¹

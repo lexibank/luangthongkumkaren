@@ -1,0 +1,33 @@
+{
+    "title": "CLDF dataset derived from Luangthongkum's \"Proto-Karen Phonology and Lexicon\" from 2019",
+    "access_right": "open",
+    "keywords": [
+        "cldf:Wordlist",
+        "linguistics"
+    ],
+    "creators": [
+        {
+            "name": "Luangthongkum, T."
+        }
+    ],
+    "contributors": [
+        {
+            "name": "Tiago Tresoldi",
+            "type": "Other"
+        },
+        {
+            "name": "Johann-Mattis List",
+            "type": "Other"
+        }
+    ],
+    "communities": [
+        {
+            "identifier": "lexibank"
+        }
+    ],
+    "upload_type": "dataset",
+    "description": "<p>Cite the source of the dataset as:</p>\n\n<blockquote>\n<p>Luangthongkum, T. (2019). A View on Proto-Karen Phonology and Lexicon, Journal of Southest Asian Linguistics Society, 12.1, i-lii. doi: http://hdl.handle.net/10524/52441</p>\n</blockquote>",
+    "license": {
+        "id": "CC-BY-NC-ND-4.0"
+    }
+}

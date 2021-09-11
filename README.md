@@ -1,8 +1,14 @@
 # CLDF dataset derived from Luangthongkum's "Proto-Karen Phonology and Lexicon" from 2019
 
-Cite the source dataset as
+## How to cite
 
-> Luangthongkum, T. (2019). A View on Proto-Karen Phonology and Lexicon, Journal of Southest Asian Linguistics Society, 12.1, i-lii. doi: http://hdl.handle.net/10524/52441
+If you use these data please cite
+- the original source
+  > Luangthongkum, T. (2019). A View on Proto-Karen Phonology and Lexicon, Journal of Southest Asian Linguistics Society, 12.1, i-lii. doi: http://hdl.handle.net/10524/52441
+- the derived dataset using the DOI of the [particular released version](../../releases/) you were using
+
+## Description
+
 
 This dataset is licensed under a CC-BY-NC-ND-4.0 license
 
@@ -20,21 +26,29 @@ Available online at http://hdl.handle.net/10524/52441
 
 - **Varieties:** 15
 - **Concepts:** 341
-- **Lexemes:** 3,469
+- **Lexemes:** 3,436
 - **Sources:** 1
 - **Synonymy:** 1.01
 - **Invalid lexemes:** 0
-- **Tokens:** 14,226
-- **Segments:** 98 (0 BIPA errors, 0 CTLS sound class errors, 98 CLTS modified)
-- **Inventory size (avg):** 37.20
+- **Tokens:** 13,134
+- **Segments:** 108 (0 BIPA errors, 0 CTLS sound class errors, 108 CLTS modified)
+- **Inventory size (avg):** 37.40
 
 # Contributors
 
 Name | GitHub user | Description | Role
  --- | --- | --- | --- 
-Tiago Tresoldi | @tresoldi | patron, profiles, language mapping | Author
-Johann-Mattis List | @lingulist | code, integration | Author
+Tiago Tresoldi | @tresoldi | patron, profiles, language mapping | Other 
+Johann-Mattis List | @lingulist | code, integration | Other
+Luangthongkum, T. | | data collection | Author
 
 
 
 
+
+
+## CLDF Datasets
+
+The following CLDF datasets are available in [cldf](cldf):
+
+- CLDF [Wordlist](https://github.com/cldf/cldf/tree/master/modules/Wordlist) at [cldf/cldf-metadata.json](cldf/cldf-metadata.json)
