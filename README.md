@@ -26,15 +26,15 @@ Available online at http://hdl.handle.net/10524/52441
 
 - **Varieties:** 15
 - **Concepts:** 341
-- **Lexemes:** 3,436
+- **Lexemes:** 3,432
 - **Sources:** 1
 - **Synonymy:** 1.01
-- **Cognacy:** 3,436 cognates in 341 cognate sets (0 singletons)
+- **Cognacy:** 3,432 cognates in 341 cognate sets (0 singletons)
 - **Cognate Diversity:** 0.00
 - **Invalid lexemes:** 0
-- **Tokens:** 12,831
-- **Segments:** 132 (0 BIPA errors, 0 CTLS sound class errors, 132 CLTS modified)
-- **Inventory size (avg):** 40.40
+- **Tokens:** 13,012
+- **Segments:** 134 (0 BIPA errors, 0 CTLS sound class errors, 134 CLTS modified)
+- **Inventory size (avg):** 40.80
 
 # Contributors
 
