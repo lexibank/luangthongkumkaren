@@ -14,13 +14,13 @@
         {
             "rdf:about": "https://github.com/lexibank/luangthongkumkaren",
             "rdf:type": "prov:Entity",
-            "dc:created": "c648c76",
+            "dc:created": "77db2ea",
             "dc:title": "Repository"
         },
         {
             "rdf:about": "https://github.com/glottolog/glottolog",
             "rdf:type": "prov:Entity",
-            "dc:created": "v4.4",
+            "dc:created": "v4.5",
             "dc:title": "Glottolog"
         },
         {
@@ -43,7 +43,7 @@
         },
         {
             "dc:title": "python",
-            "dc:description": "3.9.6"
+            "dc:description": "3.9.9"
         },
         {
             "dc:title": "python-packages",
@@ -58,8 +58,7 @@
     "tables": [
         {
             "dc:conformsTo": "http://cldf.clld.org/v1.0/terms.rdf#FormTable",
-            "dc:description": "\nRaw lexical data item as it can be pulled out of the original datasets.\n\nThis is the basis for creating rows in CLDF representations of the data by\n- splitting the lexical item into forms\n- cleaning the forms\n- potentially tokenizing the form\n",
-            "dc:extent": 3432,
+            "dc:extent": 3233,
             "tableSchema": {
                 "columns": [
                     {
@@ -128,6 +127,10 @@
                     {
                         "datatype": "string",
                         "name": "Profile"
+                    },
+                    {
+                        "datatype": "string",
+                        "name": "Partial_Cognacy"
                     }
                 ],
                 "foreignKeys": [
@@ -162,7 +165,7 @@
         },
         {
             "dc:conformsTo": "http://cldf.clld.org/v1.0/terms.rdf#LanguageTable",
-            "dc:extent": 15,
+            "dc:extent": 11,
             "tableSchema": {
                 "columns": [
                     {
@@ -260,7 +263,7 @@
         },
         {
             "dc:conformsTo": "http://cldf.clld.org/v1.0/terms.rdf#CognateTable",
-            "dc:extent": 3432,
+            "dc:extent": 3566,
             "tableSchema": {
                 "columns": [
                     {
@@ -311,6 +314,10 @@
                     {
                         "datatype": "string",
                         "name": "Alignment_Source"
+                    },
+                    {
+                        "datatype": "string",
+                        "name": "Morpheme_Index"
                     }
                 ],
                 "foreignKeys": [

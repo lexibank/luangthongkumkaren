@@ -1,9 +1,5 @@
 ID,Name,Glottocode,Glottolog_Name,ISO639P3code,Macroarea,Latitude,Longitude,Family
 ProtoKaren,Proto-Karen,kare1337,Karenic,,,,,Sino-Tibetan
-ProtoKarenBurling,Proto-Karen (Burling),kare1337,Karenic,,,,,Sino-Tibetan
-ProtoNorthernkaren,Proto-Northern-Karen,nort2703,Northern Karen,,,,,Sino-Tibetan
-ProtoCentralKaren,Proto-Central-Karen,cent1999,Central Karen,,,,,Sino-Tibetan
-ProtoSouthernKaren,Proto-Southern-Karen,sout1554,Southern Karen,,,,,Sino-Tibetan
 Kayah,Kayah,kaya1317,Kayah,,,,,Sino-Tibetan
 Kayan,Kayan,kaya1315,Kayan Lahwi,pdu,Eurasia,19.5183,97.4138,Sino-Tibetan
 Kayaw,Kayaw,kaya1316,Kayaw-Manu,,,,,Sino-Tibetan

@@ -18,23 +18,29 @@ Available online at http://hdl.handle.net/10524/52441
 
 
 [![Build Status](https://travis-ci.org/lexibank/luangthongkumkaren.svg?branch=master)](https://travis-ci.org/lexibank/luangthongkumkaren)
-![Glottolog: 74%](https://img.shields.io/badge/Glottolog-74%25-yellow.svg "Glottolog: 74%")
+![Glottolog: 72%](https://img.shields.io/badge/Glottolog-72%25-yellow.svg "Glottolog: 72%")
 ![Concepticon: 82%](https://img.shields.io/badge/Concepticon-82%25-yellowgreen.svg "Concepticon: 82%")
-![Source: 100%](https://img.shields.io/badge/Source-100%25-brightgreen.svg "Source: 100%")
+![Source: 0%](https://img.shields.io/badge/Source-0%25-red.svg "Source: 0%")
 ![BIPA: 100%](https://img.shields.io/badge/BIPA-100%25-brightgreen.svg "BIPA: 100%")
 ![CLTS SoundClass: 100%](https://img.shields.io/badge/CLTS%20SoundClass-100%25-brightgreen.svg "CLTS SoundClass: 100%")
 
-- **Varieties:** 15
+- **Varieties:** 11
 - **Concepts:** 341
-- **Lexemes:** 3,432
-- **Sources:** 1
+- **Lexemes:** 3,233
+- **Sources:** 0
 - **Synonymy:** 1.01
-- **Cognacy:** 3,432 cognates in 341 cognate sets (0 singletons)
-- **Cognate Diversity:** 0.00
+- **Cognacy:** 3,566 cognates in 493 cognate sets (80 singletons)
+- **Cognate Diversity:** 0.05
 - **Invalid lexemes:** 0
-- **Tokens:** 13,012
-- **Segments:** 134 (0 BIPA errors, 0 CTLS sound class errors, 134 CLTS modified)
-- **Inventory size (avg):** 40.80
+- **Tokens:** 12,750
+- **Segments:** 106 (0 BIPA errors, 0 CTLS sound class errors, 106 CLTS modified)
+- **Inventory size (avg):** 45.64
+
+## Possible Improvements:
+
+
+
+- Entries missing sources: 3233/3233 (100.00%)
 
 # Contributors
 
