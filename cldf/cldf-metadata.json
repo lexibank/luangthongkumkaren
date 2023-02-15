@@ -14,13 +14,13 @@
         {
             "rdf:about": "https://github.com/lexibank/luangthongkumkaren",
             "rdf:type": "prov:Entity",
-            "dc:created": "8f428ba",
+            "dc:created": "4659ace",
             "dc:title": "Repository"
         },
         {
             "rdf:about": "https://github.com/glottolog/glottolog",
             "rdf:type": "prov:Entity",
-            "dc:created": "v4.6",
+            "dc:created": "v4.7",
             "dc:title": "Glottolog"
         },
         {
@@ -43,7 +43,7 @@
         },
         {
             "dc:title": "python",
-            "dc:description": "3.9.9"
+            "dc:description": "3.9.16"
         },
         {
             "dc:title": "python-packages",

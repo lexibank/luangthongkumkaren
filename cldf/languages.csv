@@ -1,12 +1,12 @@
 ID,Name,Glottocode,Glottolog_Name,ISO639P3code,Macroarea,Latitude,Longitude,Family
 ProtoKaren,Proto-Karen,kare1337,Karenic,,,,,Sino-Tibetan
-Kayah,Kayah,kaya1317,Kayah,,,,,Sino-Tibetan
+Kayah,Kayah,east2342,Eastern Kayah,eky,Eurasia,19.8939,98.3359,Sino-Tibetan
 Kayan,Kayan,kaya1315,Kayan Lahwi,pdu,Eurasia,19.5183,97.4138,Sino-Tibetan
-Kayaw,Kayaw,kaya1316,Kayaw-Manu,,,,,Sino-Tibetan
+Kayaw,Kayaw,brek1238,Brek Karen,kvl,Eurasia,19.0561,96.8365,Sino-Tibetan
 NorthernPao,Northern Pa-O,nort2705,Northern Pa'o,,Eurasia,,,Sino-Tibetan
-NorthernPwo,Northern Pwo,nort2704,Northern Pwo Karen,,,,,Sino-Tibetan
+NorthernPwo,Northern Pwo,pwon1235,Pwo Northern Karen,pww,Eurasia,18.016,98.2709,Sino-Tibetan
 NorthernSgaw,Northern Sgaw,,,,,,,
 SouthernPao,Southern Pa-O,sout2712,Southern Pa'o,,Eurasia,,,Sino-Tibetan
 SouthernPwo,Southern Pwo,,,,,,,
-SouthernSgaw,Southern Sgaw,,,,,,,
+SouthernSgaw,Southern Sgaw,sgaw1245,S'gaw Karen,ksw,Eurasia,17.9872,97.7126,Sino-Tibetan
 WesternBwe,Western Bwe,bwek1238,Bwe Karen,bwe,Eurasia,18.9796,96.9936,Sino-Tibetan

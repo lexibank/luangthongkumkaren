@@ -18,7 +18,7 @@ Available online at http://hdl.handle.net/10524/52441
 
 
 [![Build Status](https://travis-ci.org/lexibank/luangthongkumkaren.svg?branch=master)](https://travis-ci.org/lexibank/luangthongkumkaren)
-![Glottolog: 72%](https://img.shields.io/badge/Glottolog-72%25-yellow.svg "Glottolog: 72%")
+![Glottolog: 81%](https://img.shields.io/badge/Glottolog-81%25-yellowgreen.svg "Glottolog: 81%")
 ![Concepticon: 82%](https://img.shields.io/badge/Concepticon-82%25-yellowgreen.svg "Concepticon: 82%")
 ![Source: 0%](https://img.shields.io/badge/Source-0%25-red.svg "Source: 0%")
 ![BIPA: 100%](https://img.shields.io/badge/BIPA-100%25-brightgreen.svg "BIPA: 100%")
