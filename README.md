@@ -32,9 +32,9 @@ Available online at http://hdl.handle.net/10524/52441
 - **Cognacy:** 3,566 cognates in 493 cognate sets (80 singletons)
 - **Cognate Diversity:** 0.05
 - **Invalid lexemes:** 0
-- **Tokens:** 12,750
-- **Segments:** 106 (0 BIPA errors, 0 CLTS sound class errors, 106 CLTS modified)
-- **Inventory size (avg):** 45.64
+- **Tokens:** 12,748
+- **Segments:** 107 (0 BIPA errors, 0 CLTS sound class errors, 107 CLTS modified)
+- **Inventory size (avg):** 45.73
 
 ## Possible Improvements:
 
