@@ -46,11 +46,8 @@ Available online at http://hdl.handle.net/10524/52441
 
 Name | GitHub user | Description | Role
  --- | --- | --- | --- 
-Tiago Tresoldi | @tresoldi | patron, profiles, language mapping | Other 
-Johann-Mattis List | @lingulist | code, integration | Other
 Luangthongkum, T. | | data collection | Author
-
-
+Johann-Mattis List | @lingulist | code, integration | Editor
 
 
 
