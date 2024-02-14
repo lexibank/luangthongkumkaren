@@ -14,7 +14,7 @@ setup(
     py_modules=["lexibank_luangthongkumkaren"],
     include_package_data=True,
     zip_safe=False,
-    entry_points={"lexibank.dataset": ["cals=lexibank_cals:Dataset"]},
-    install_requires=["pylexibank>=2.1.0"],
+    entry_points={"lexibank.dataset": ["luangthongkumkaren=lexibank_luangthongkumkaren:Dataset"]},
+    install_requires=["pylexibank>=3.1.0", "pyedictor"],
     extras_require={"test": ["pytest-cldf"]},
 )

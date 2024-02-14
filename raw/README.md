@@ -1,2 +1,1 @@
-Data was extracted from the original PDF by @lingulist and @tresoldi on
-2019.10.29.
+Raw data downloaded 2024-02-14T10:45:18.850376

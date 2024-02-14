@@ -1,5 +1,7 @@
 # CLDF dataset derived from Luangthongkum's "Proto-Karen Phonology and Lexicon" from 2019
 
+[![CLDF validation](https://github.com/lexibank/luangthongkumkaren/workflows/CLDF-validation/badge.svg)](https://github.com/lexibank/luangthongkumkaren/actions?query=workflow%3ACLDF-validation)
+
 ## How to cite
 
 If you use these data please cite
@@ -14,12 +16,15 @@ This dataset is licensed under a CC-BY-NC-ND-4.0 license
 
 Available online at http://hdl.handle.net/10524/52441
 
+
+Conceptlists in Concepticon:
+- [Luangthongkum-2019-341](https://concepticon.clld.org/contributions/Luangthongkum-2019-341)
 ## Statistics
 
 
-[![Build Status](https://travis-ci.org/lexibank/luangthongkumkaren.svg?branch=master)](https://travis-ci.org/lexibank/luangthongkumkaren)
+[![CLDF validation](https://github.com/lexibank/luangthongkumkaren/workflows/CLDF-validation/badge.svg)](https://github.com/lexibank/luangthongkumkaren/actions?query=workflow%3ACLDF-validation)
 ![Glottolog: 81%](https://img.shields.io/badge/Glottolog-81%25-yellowgreen.svg "Glottolog: 81%")
-![Concepticon: 82%](https://img.shields.io/badge/Concepticon-82%25-yellowgreen.svg "Concepticon: 82%")
+![Concepticon: 74%](https://img.shields.io/badge/Concepticon-74%25-yellow.svg "Concepticon: 74%")
 ![Source: 0%](https://img.shields.io/badge/Source-0%25-red.svg "Source: 0%")
 ![BIPA: 100%](https://img.shields.io/badge/BIPA-100%25-brightgreen.svg "BIPA: 100%")
 ![CLTS SoundClass: 100%](https://img.shields.io/badge/CLTS%20SoundClass-100%25-brightgreen.svg "CLTS SoundClass: 100%")

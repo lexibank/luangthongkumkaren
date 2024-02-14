@@ -48,7 +48,7 @@ class Dataset(BaseDataset):
     )
     
     def cmd_download(self, args):
-        with open(self.raw_dir / "ltkkaren.tsv", "w",  encoding="utf-8") as f:
+        with open(self.raw_dir / "luangthongkumkaren.tsv", "w",  encoding="utf-8") as f:
             f.write(fetch(
                 "ltkkaren", 
                 base_url="http://lingulist.de/edev", 
@@ -67,8 +67,7 @@ class Dataset(BaseDataset):
         languages = args.writer.add_languages(lookup_factory="Name")
 
         concepts = args.writer.add_concepts(
-            lookup_factory="Name",
-            id_factory=lambda c: c.id.split("-")[-1] + "_" + slug(c.english),
+            id_factory=lambda c: c.id.split("-")[-1] + "_" + slug(c.english), lookup_factory="Name"
         )
         
         def desegment(seq):
@@ -77,7 +76,7 @@ class Dataset(BaseDataset):
                 out += [x.split("/")[1] if "/" in x else x for x in itm.split(".")]
             return out
 
-        wl = Wordlist(str(self.raw_dir / "ltkkaren.tsv"))
+        wl = Wordlist(str(self.raw_dir / "luangthongkumkaren.tsv"))
         for (idx, doculect, concept, value, form, tokens, 
                 cogids, cogid) in progressbar(wl.iter_rows(
                         "doculect", "concept", "value", "form", "tokens",
