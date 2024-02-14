@@ -67,8 +67,7 @@ class Dataset(BaseDataset):
         languages = args.writer.add_languages(lookup_factory="Name")
 
         concepts = args.writer.add_concepts(
-            lookup_factory="Name",
-            id_factory=lambda c: c.id.split("-")[-1] + "_" + slug(c.english),
+            id_factory=lambda c: c.id.split("-")[-1] + "_" + slug(c.english), lookup_factory="Name"
         )
         
         def desegment(seq):
