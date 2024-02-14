@@ -48,7 +48,7 @@ class Dataset(BaseDataset):
     )
     
     def cmd_download(self, args):
-        with open(self.raw_dir / "ltkkaren.tsv", "w",  encoding="utf-8") as f:
+        with open(self.raw_dir / "luangthongkumkaren.tsv", "w",  encoding="utf-8") as f:
             f.write(fetch(
                 "ltkkaren", 
                 base_url="http://lingulist.de/edev", 
@@ -77,7 +77,7 @@ class Dataset(BaseDataset):
                 out += [x.split("/")[1] if "/" in x else x for x in itm.split(".")]
             return out
 
-        wl = Wordlist(str(self.raw_dir / "ltkkaren.tsv"))
+        wl = Wordlist(str(self.raw_dir / "luangthongkumkaren.tsv"))
         for (idx, doculect, concept, value, form, tokens, 
                 cogids, cogid) in progressbar(wl.iter_rows(
                         "doculect", "concept", "value", "form", "tokens",
