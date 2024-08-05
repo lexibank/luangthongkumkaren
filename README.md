@@ -6,7 +6,7 @@
 
 If you use these data please cite
 - the original source
-  > Luangthongkum, T. (2019). A View on Proto-Karen Phonology and Lexicon, Journal of Southest Asian Linguistics Society, 12.1, i-lii. doi: http://hdl.handle.net/10524/52441
+  > Luangthongkum, Theraphan (2019). A View on Proto-Karen Phonology and Lexicon, Journal of Southest Asian Linguistics Society, 12.1, i-lii. doi: http://hdl.handle.net/10524/52441
 - the derived dataset using the DOI of the [particular released version](../../releases/) you were using
 
 ## Description
@@ -23,14 +23,14 @@ Conceptlists in Concepticon:
 
 
 [![CLDF validation](https://github.com/lexibank/luangthongkumkaren/workflows/CLDF-validation/badge.svg)](https://github.com/lexibank/luangthongkumkaren/actions?query=workflow%3ACLDF-validation)
-![Glottolog: 81%](https://img.shields.io/badge/Glottolog-81%25-yellowgreen.svg "Glottolog: 81%")
+![Glottolog: 100%](https://img.shields.io/badge/Glottolog-100%25-brightgreen.svg "Glottolog: 100%")
 ![Concepticon: 74%](https://img.shields.io/badge/Concepticon-74%25-yellow.svg "Concepticon: 74%")
 ![Source: 0%](https://img.shields.io/badge/Source-0%25-red.svg "Source: 0%")
 ![BIPA: 100%](https://img.shields.io/badge/BIPA-100%25-brightgreen.svg "BIPA: 100%")
 ![CLTS SoundClass: 100%](https://img.shields.io/badge/CLTS%20SoundClass-100%25-brightgreen.svg "CLTS SoundClass: 100%")
 
-- **Varieties:** 11
-- **Concepts:** 341
+- **Varieties:** 11 (linked to 11 different Glottocodes)
+- **Concepts:** 341 (linked to 249 different Concepticon concept sets)
 - **Lexemes:** 3,233
 - **Sources:** 0
 - **Synonymy:** 1.01
@@ -51,7 +51,7 @@ Conceptlists in Concepticon:
 
 Name | GitHub user | Description | Role
  --- | --- | --- | --- 
-Luangthongkum, T. | | data collection | Author
+Luangthongkum, Theraphan | | data collection | Author
 Johann-Mattis List | @lingulist | code, integration | Editor
 
 
