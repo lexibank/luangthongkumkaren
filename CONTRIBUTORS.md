@@ -2,5 +2,5 @@
 
 Name | GitHub user | Description | Role
  --- | --- | --- | --- 
-Luangthongkum, T. | | data collection | Author
+Luangthongkum, Theraphan | | data collection | Author
 Johann-Mattis List | @lingulist | code, integration | Editor
